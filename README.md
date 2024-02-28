@@ -4,4 +4,4 @@ Jogo que permite o desafio supremo de identificar o destino de um número sortea
 
 Boa sorte ;)
 
-## O jogo está liberado para acesso online neste dominio -> https://jogo-rosy-phi.vercel.app
+### O jogo está liberado para acesso online neste dominio: https://jogo-rosy-phi.vercel.app

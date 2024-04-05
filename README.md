@@ -12,4 +12,4 @@ O jogo está liberado para acesso online neste domínio: [Jogo do Número Secret
 - JavaScript
 - CSS
 - HTML
-
+- integração auditiva
